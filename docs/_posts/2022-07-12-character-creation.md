@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 players: [Rebecca,David,Joe,Steve,Kuba,Spencer]
 pcs: Arry Ash Fender Sylvie Ulfgar
 tags: elf tiefling bard ranger barbarian dwarf cleric
+combat: false
 ---
 General player character outlines
 

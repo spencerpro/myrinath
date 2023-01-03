@@ -4,6 +4,7 @@ date: 2022-07-05
 excerpt_separator: <!--more-->
 players: [Rebecca,David,Joe,Steve,Kuba,Spencer]
 tags: drow elf human dwarf
+combat: false
 ---
 Initial meeting for organizing and planning
 
