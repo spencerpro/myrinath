@@ -1,6 +1,6 @@
 domain: hub.proffit.net
 url: https://hub.proffit.net/myrinath
-#baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
+# baseurl: /myrinath
 title: The Myrinathian Frontier
 description: A D&D 5e Campaign setting created by Joe S.
 author:
@@ -16,9 +16,11 @@ plugins:
   - jekyll-titles-from-headings
 
 collections:
-  - npcs
-  - pcs
-  - locations
-  - species
-  - players
-  - mirrors
+  npcs:
+    sort_by: fullname
+  pcs:
+  locations:
+  species:
+  players:
+  mirrors:
+    sort_by: vol
