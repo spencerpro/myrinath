@@ -19,8 +19,8 @@ collections:
   npcs:
     sort_by: fullname
   pcs:
+    sort_by: fullname
   locations:
-  species:
-  players:
+    sort_by: name
   mirrors:
     sort_by: vol
