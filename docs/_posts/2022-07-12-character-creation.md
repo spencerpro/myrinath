@@ -2,6 +2,8 @@
 title: Character Creation
 excerpt_separator: <!--more-->
 players: [Rebecca,David,Joe,Steve,Kuba,Spencer]
+pcs: Arry Ash Fender Sylvie Ulfgar
+tags: elf tiefling bard ranger barbarian dwarf cleric
 ---
 General player character outlines
 
