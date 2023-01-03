@@ -1,0 +1,24 @@
+domain: hub.proffit.net
+url: https://hub.proffit.net
+#baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
+title: The Myrinathian Frontier
+description: A D&D 5e Campaign setting created by Joe S.
+author:
+  name: Spencer P.
+  email: spencer.proffit@gmail.com
+
+markdown: kramdown
+
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-titles-from-headings
+
+collections:
+  - npcs
+  - pcs
+  - locations
+  - species
+  - players
+  - mirrors
