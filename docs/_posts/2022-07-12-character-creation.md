@@ -1,8 +1,12 @@
 ---
 title: Character Creation
-date: 2022-07-12 18:00:00 -0000
+excerpt_separator: <!--more-->
 players: [Rebecca,David,Joe,Steve,Kuba,Spencer]
 ---
+General player character outlines
+
+<!--more-->
+
 Characters Start at 1st level
 
 Myrinath: capital is Thelasium

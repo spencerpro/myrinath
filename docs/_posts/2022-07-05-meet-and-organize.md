@@ -1,8 +1,13 @@
 ---
 title: Meet and Organize Session -1
-date: 2022-07-05 18:00:00 -0000
+date: 2022-07-05
+excerpt_separator: <!--more-->
 players: [Rebecca,David,Joe,Steve,Kuba,Spencer] 
 ---
+Initial meeting for organizing and planning
+
+(at Spencer's house)
+<!--more-->
 * Joe to DM
   * Myrinath start point -> large city 
   * ruled by elves 
