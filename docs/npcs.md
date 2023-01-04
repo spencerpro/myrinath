@@ -8,4 +8,5 @@ title: Non-Player Characters
   <p>{% if npc.sessions %}Session: {{ npc.sessions }}{% endif %}</p>
   <p>{% if npc.mirrors %}Mirror: {{ npc.mirrors }}{% endif %}</p>
 </details>
+<hr/>
 {% endfor %}
