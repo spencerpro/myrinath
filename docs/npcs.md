@@ -2,6 +2,7 @@
 title: Non-Player Characters
 ---
 {% for npc in site.npcs %}
+{% if npc.image %}![NPC Image](/assets/img/{{ npc.image | url_encode }}){% endif %}
 <details><summary><h2>{{ npc.fullname }}</h2></summary>
   <p>{{ npc.content | markdownify }}</p>
   {% if npc.sessions %}Session: {{ npc.sessions }}{% endif %}
