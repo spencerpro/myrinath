@@ -1,9 +1,9 @@
 ---
-fullname: Citeron
+fullname: Cartmaker (Family)
 species: elf
-occupation: mage
+occupation: settler
 sessions: [2022-08-16]
-mirrors: [1]
+mirrors: [4]
 ---
 
-Legendary Mage
+Just trying to stake a claim

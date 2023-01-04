@@ -1,8 +1,8 @@
 ---
-fullname: Charlie 'Chaotica'
-species: gnome
-occupation: necromancer
-sessions:
+fullname: Citeron
+species: elf
+occupation: mage
+sessions: [2022-08-16]
 mirrors: [1]
 ---
-Former consort of Vencia Sailatar
+Legendary Mage
