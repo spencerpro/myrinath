@@ -5,7 +5,7 @@ title: Non-Player Characters
 {% if npc.image %}![NPC Image](/assets/img/{{ npc.image | url_encode }}){% endif %}
 <details><summary><h2>{{ npc.fullname }}</h2></summary>
   <p>{{ npc.content | markdownify }}</p>
-  {% if npc.sessions %}Session: {{ npc.sessions }}{% endif %}
-  {% if npc.mirrors %}Mirror: {{ npc.mirrors }}{% endif %}
+  <p>{% if npc.sessions %}Session: {{ npc.sessions }}{% endif %}</p>
+  <p>{% if npc.mirrors %}Mirror: {{ npc.mirrors }}{% endif %}</p>
 </details>
 {% endfor %}
